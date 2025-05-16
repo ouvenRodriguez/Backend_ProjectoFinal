@@ -1,0 +1,22 @@
+[13.01.2025 18:22:59 pm] - [ERROR] [TOKEN] - No token provided
+[13.01.2025 18:23:09 pm] - [ERROR] [TOKEN] - No token provided
+[13.01.2025 18:23:43 pm] - [ERROR] [TOKEN] - No token provided
+[13.01.2025 18:24:13 pm] - [ERROR] [TOKEN] - No token provided
+[13.01.2025 18:27:24 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - E11000 duplicate key error collection: dbmajoalegria.users index: email_1 dup key: { email: "croameneses@gmail.com" }
+[13.01.2025 18:28:04 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - E11000 duplicate key error collection: dbmajoalegria.users index: email_1 dup key: { email: "croameneses@gmail.com" }
+[13.01.2025 18:28:34 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - User not found
+[12.05.2025 12:48:56 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - Invalid email
+[12.05.2025 12:49:03 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - Invalid email
+[12.05.2025 12:49:31 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - Invalid email
+[12.05.2025 12:51:21 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - Invalid email
+[12.05.2025 12:51:47 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - Invalid email
+[12.05.2025 12:53:20 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - La contraseña es inválida. Debe contener al menos una letra y un número, y tener al menos 8 caracteres
+[12.05.2025 12:54:38 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - La contraseña es inválida. Debe contener al menos una letra y un número, y tener al menos 8 caracteres
+[12.05.2025 12:54:52 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - La contraseña es inválida. Debe contener al menos una letra y un número, y tener al menos 8 caracteres
+[12.05.2025 12:58:31 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - Invalid pass
+[12.05.2025 12:59:32 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - Invalid pass
+[12.05.2025 12:59:48 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - Invalid pass
+[12.05.2025 13:00:42 pm] - [ERROR] [ROUTE] [/api/user] [/register] [CONTROLLER] [registerUser] - User not found
+[13.05.2025 07:37:30 am] - [ERROR] [ROUTE] [/api/user] [/login] [CONTROLLER] [loginUser] - Invalid password
+[14.05.2025 09:18:45 am] - [ERROR] [ROUTE] [/api/user] [/login] [CONTROLLER] [loginUser] - Invalid password
+[15.05.2025 12:35:53 pm] - [ERROR] [ROUTE] [/api/user] [/login] [CONTROLLER] [loginUser] - Invalid password
